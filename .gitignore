@@ -1,0 +1,18 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Bytecode
+__pycache__/
+*.pyc
+
+# Local Environment Variables
+.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS Specific
+.DS_Store
+Thumbs.db
